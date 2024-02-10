@@ -8,7 +8,7 @@ Feel free to improve or fix bug the application. If you have question I'll try m
 
 ## Features
 
--   master data 
+-   master data
 -   much more..
 
 ## Requirement
